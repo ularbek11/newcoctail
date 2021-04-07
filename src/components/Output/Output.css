@@ -1,0 +1,21 @@
+body{
+  background-image: url(https://new-retail.ru/upload/iblock/be4/be42874ee5dce8e46693d98bb00e7bbd.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.cards{
+     position: relative;
+     left: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+  width: 33%;
+  display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+   
+}
